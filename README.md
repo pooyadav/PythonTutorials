@@ -15,7 +15,7 @@ $ pip3 install virtualenv
 
 ## Creating a named virtual environment
 ```
-$virtualenv -p python3 <virtual-environment-path>
+$ virtualenv -p python3 <virtual-environment-path>
 ```
 ## Activate virtual environment before use
 
