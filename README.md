@@ -1,4 +1,4 @@
-# PythonTutorials
+# Python Tutorials
 
 Here I'm writing two ways to setup python working environment. 
 
