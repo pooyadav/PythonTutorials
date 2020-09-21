@@ -67,5 +67,11 @@ $ conda activate <my-environment-name>
 $ conda deactivate
 ```
 
+### See all conda environments in your machine
+
+```
+$ conda env list  
+```
+
 
 
